@@ -21,9 +21,7 @@ N/A
 
 To navigate this site, you can scroll down past the header image to review each section. Or, click on a topic in the navigation bar, located in the upper right of the header, to jump directly to that section. 
 
-**To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![The Horiseon webpage includes a header with company name, navigation bar, and image. Three cards with text and corresponding image are located at the bottom of the page, with a sidebar containing simple images and text to the right of the cards.](assets/images/screenshot.png)
+![The Horiseon webpage includes a header with company name, navigation bar, and image. Three cards with text and corresponding image are located at the bottom of the page, with a sidebar containing simple images and text to the right of the cards.](assets/images/module-1-challenge-screenshot)
 
 ## Credits
 
