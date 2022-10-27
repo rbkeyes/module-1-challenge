@@ -17,7 +17,7 @@ To navigate this site, you can scroll down past the header image to review each 
 
 The following image shows the appearance of the webpage:
 
-![The Horiseon webpage includes a header with company name, navigation bar, and image. Three cards with text and corresponding image are located at the bottom of the page, with a sidebar containing simple images and text to the right of the cards.](/Develop/assets/images/module-1-challenge-screeenshot.png)
+![The Horiseon webpage includes a header with company name, navigation bar, and image. Three cards with text and corresponding image are located at the bottom of the page, with a sidebar containing simple images and text to the right of the cards.](./assets/images/module-1-challenge-screeenshot.png)
 
 ## Credits
 
