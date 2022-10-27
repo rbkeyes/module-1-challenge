@@ -21,13 +21,7 @@ The following image shows the appearance of the webpage:
 
 ## Credits
 
-UCB Boot Camp provided starter code ang images: https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-10-2022-U-LOLC
+- [UCB Boot Camp](https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-10-2022-U-LOLC) provided starter code ang images. 
 
 
-Resource for semantic HTML: https://www.w3schools.com/html/html5_semantic_elements.asp
-
-
-
-
-
-[def]: ./
+- [W3 Schools](https://www.w3schools.com/html/html5_semantic_elements.asp) was a resource for semantic HTML. 
