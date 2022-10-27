@@ -113,6 +113,7 @@ aside {
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
+    
 }
 
 aside h3 {
@@ -128,11 +129,11 @@ aside img {
 
 /* footer */
 footer {
+    visibility: hidden;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
-    visibility: hidden;
 }
 
 footer h4 {
