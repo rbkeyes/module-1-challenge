@@ -31,7 +31,7 @@ UCB Boot Camp
 https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/UCB-VIRT-FSF-PT-10-2022-U-LOLC
 Provided starter code ang images.
 
-
+Resource for semantic HTML: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 ## License
 
